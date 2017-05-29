@@ -1,4 +1,4 @@
-package I_Iterator;
+package Chapter1_Iterator;
 
 import lombok.Data;
 

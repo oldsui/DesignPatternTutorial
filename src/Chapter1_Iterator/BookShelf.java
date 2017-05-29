@@ -1,4 +1,4 @@
-package I_Iterator;
+package Chapter1_Iterator;
 
 import java.util.ArrayList;
 import java.util.Iterator;
