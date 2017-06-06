@@ -1,4 +1,4 @@
-# DesignPatternTutorial
+# Design Pattern Tutorial
 
 
 ## 1. Iterator
@@ -23,4 +23,13 @@
 
 ## 4. Factory
 
+    Framework(Abstract classes):
+        Factory                             Product
+            createProduct()
+    
+    
+    Concrete classes:
+        MyFactory                           MyProduct
+
+## 5. Singleton
 
