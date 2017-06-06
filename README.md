@@ -3,7 +3,16 @@
 
 ## 1. Iterator
 
-iterator, aggregate, concrete iterator, concrete aggregate
+concrete iterator -- implements --> iterator <-- has -- aggregate <-- implements -- concrete aggregate
 
+concrete iterator -- has --> concrete aggregate
+
+
+## 2. Adapter
+
+Adaptee <-- extends -- Adapter -- implements --> Target(interface),  used by client 
+
+                               
+## 3. Template
 
 
